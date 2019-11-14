@@ -17,7 +17,7 @@ $ cd ~
 
 # Clone this repo and 'cd' into it
 $ git clone https://github.com/kevinxu993/A-Multi-Player-Word-Game.git
-$ cd multi-player-word-guessing-game/
+$ cd A-Multi-Player-Word-Game/
 
 # Let's compile.
 $ make
